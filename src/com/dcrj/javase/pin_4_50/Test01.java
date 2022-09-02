@@ -18,13 +18,6 @@ package com.dcrj.javase.pin_4_50;
 
 public class Test01 {
 
-	/**  
-	 * @Title: main
-	 * @Description: no
-	 * @param args
-	 * @author pin
-	 * @date 2022-02-25 02:59:16 
-	 */
 
 	public static void main(String[] args) {
 		a(12);
